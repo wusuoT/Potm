@@ -1,0 +1,13 @@
+name: Potm
+version: '2.0-BETA'
+main: cn.wusuot.potm.Potm
+api-version: '1.21'
+authors: [wusuoT]
+description: Stress service owner's plug-in
+commands:
+  potm:
+    description: Pressure obeys the Lord's commands.
+    usage: 输入/potm就可以压力腐竹啦~
+    permission: potm
+    permission-message: 你不能执行它.
+
